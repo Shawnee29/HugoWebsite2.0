@@ -1,9 +1,5 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'In My Trini Era'
-theme = 'ananke'
 
-[module]
-    [[module.imports]]
-        path = "github.com/theNewDynamic/gohugo-theme-ananke"
         

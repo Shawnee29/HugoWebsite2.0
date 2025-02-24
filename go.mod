@@ -1,3 +1,3 @@
-module github.com/Shawnee29/HugoWebsite2.0
+module github.com/theNewDynamic/gohugo-theme-ananke
 
 go 1.22.0
