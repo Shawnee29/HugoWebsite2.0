@@ -1,7 +1,7 @@
 ---
 title: "Trini Food: You've Never Tasted Anything Like This!"
 date: 2025-01-30T10:00:00-7:00
-image: "foodie.jpg
+image: "foodie.jpg"
 ---
 
 Alright, foodies, prepare your taste buds for a tantalizing tour of Trinidad and Tobago's culinary treasures! This ain't your average "eat to live" situation; this is a full-blown flavor fiesta, a culinary carnival that'll have you begging for seconds (and thirds!).

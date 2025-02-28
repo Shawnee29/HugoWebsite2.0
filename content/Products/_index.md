@@ -8,8 +8,4 @@ Homepage of my Hugo website.
 
 {{< list "products" >}}
 
-## Latest Blog Posts
-
-{{< list "blog" >}}
-
 
