@@ -2,7 +2,7 @@
 title: "All things Trini"
 ---
 
-Homepage of my Hugo website.
+Explore our range of high-quality products that make relaxation and adventure a reality.
 
 ## Featured Products
 

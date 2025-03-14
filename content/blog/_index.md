@@ -2,7 +2,7 @@
 title: "All things Trini"
 ---
 
-Homepage of my Hugo website.
+Read to your heart's content
 
 ## Latest Blog Posts
 

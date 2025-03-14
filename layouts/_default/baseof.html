@@ -1,30 +1,24 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}"
+<html lang="{{ .Site.LanguageCode }}">
 <head>
-	<meta charset="utf-8">			
-	<title>{{ .Title }} | {{ .Site.Title }}</title>
-	link rel="stylesheet" href="{{css/style.css" | relURL }}">
+    <meta charset="utf-8">
+    <title>{{ .Title }} | {{ .Site.Title }}</title>
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
 </head>
 <body>
-	<header>
-		<h1>{{ .Site.Title }}</h1>
-		<nav>
+    <header>
+        <h1>{{ .Site.Title }}</h1>
+        <nav>
 			<a href="/">Home</a>
 			<a href="/blog">Blog</a>
 			<a href="/products">Products</a>
 		</nav>
-
-	</header>
-		<main>
-			{{block "main" . }}{{ end }}
-
-		</main>
-
-			<footer>
-				&copy; {{ .Site.Title }} {{ now.Year}}
-
-			</footer>
-
+    </header>
+    <main>
+        {{block "main" . }}{{ end }}
+    </main>
+    <footer>
+        &copy; {{ .Site.Title }} {{ now.Year}}
+    </footer>
 </body>
-
 </html>

@@ -1,6 +1,6 @@
 ---
 title: "Sun-Kissed and Carefree: Beach Hopping in Trinidad & Tobago"
-date: 2025-01-31T10:00:00-7:00
+date: 2025-01-31T10:00:00-07:00
 image: "pigeonpoint.jpg"
 ---
 

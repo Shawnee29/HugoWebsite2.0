@@ -1,6 +1,6 @@
 ---
 title: "From Colony to Carnival: Trinidad and Tobago's Independence Day Bash!"
-date: 2025-01-27T10:00:00-7:00
+date: 2025-01-27T10:00:00-07:00
 image: "independence.jpg"
 ---
 

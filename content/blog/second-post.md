@@ -1,6 +1,6 @@
 ---
 title: "Carnival in Trinidad: It's More Than Just a Party, It's a Vibe! Get Ready to Buss a wine!"
-date: 2025-01-28T10:00:00-7:00
+date: 2025-01-28T10:00:00-07:00
 image: "Carnival.jpg"
 ---
 

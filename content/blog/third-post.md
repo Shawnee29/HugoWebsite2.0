@@ -1,6 +1,6 @@
 ---
 title: "Trini Food: You've Never Tasted Anything Like This!"
-date: 2025-01-30T10:00:00-7:00
+date: 2025-01-30T10:00:00-07:00
 image: "foodie.jpg"
 ---
 
