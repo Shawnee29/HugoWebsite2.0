@@ -7,7 +7,7 @@ image: "Carnival.jpg"
 
 Alright, buckle up, because we're about to dive headfirst into the vibrant chaos that is Trinidad and Tobago Carnival! This ain't your average street party, folks; it's a cultural explosion, a kaleidoscope of colors, and a rhythmic frenzy that'll leave you breathless.
 
-<img src="/images/{{ .Params.image }} alt="{{ .Title}}">
+{{< image src="Carnival.jpg" alt="Product Image" >}}
 
 So, where did all this bacchanal begin? Well, Carnival's roots stretch back to the 18th century, when French settlers brought their masquerade traditions to the islands. But the real magic happened when these European customs collided with the vibrant culture of the Afro-Caribbean population. Think elaborate costumes, pulsating rhythms, and a whole lotta' "wining" – a dance move that's practically a national sport. Over time, Carnival evolved, incorporating elements from African music, folklore, and religious practices. It became a powerful expression of freedom, a chance for people to let loose, celebrate their heritage, and "jam" to the infectious sounds of calypso and soca.
 

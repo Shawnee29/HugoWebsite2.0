@@ -7,7 +7,7 @@ image: "pigeonpoint.jpg"
 
 Sun-kissed sands, turquoise waters, and vibes for days – that's what awaits you on the beaches of Trinidad and Tobago! Forget your troubles, grab your sunscreen, and get ready to dive headfirst into paradise. Whether you're a thrill-seeker looking for adventure or a sun-worshipper craving relaxation, these islands have a beach for every mood.
 
-<img src="/images/{{ .Params.image }} alt="{{ .Title}}">
+{{< image src="pigeonpoint.jpg" alt="Product Image" >}}
 
 In Trinidad, Maracas Beach is a must-visit. Picture this: golden sand, crystal-clear water, and the legendary "bake and shark" sizzling nearby. It's the perfect spot for a lime (that's Trini for hanging out) with friends and family. If you're looking for something a bit more secluded, head to Las Cuevas Beach. It's a hidden gem nestled along the north coast, where you can escape the crowds and soak up the natural beauty. And for a taste of local life, check out Vessigny Beach, where you can watch the fishermen bring in their catch and maybe even score some fresh seafood.
 

@@ -1,8 +1,5 @@
-{{ define "main" }}
-    <h1>{{ .Title }}</h1>
-    <ul>
-        {{ range .Pages }}
-            <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-        {{ end }}
-    </ul>
-{{ end }}
+<ul>
+    {{ range where site.RegularPages.ByWeight "Section" (.Get 0) }}
+        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+</ul>
