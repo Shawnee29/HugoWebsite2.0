@@ -1,8 +1,11 @@
 {{ define "main" }}
-    <h1>{{ .Title }}</h1>
-    <ul>
-        {{ range .Pages }}
-            <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-        {{ end }}
-    </ul>
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+{{ range .Paginator.Pages }}
+<article>
+    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    {{ .Summary }}
+</article>
+{{ end }}
+{{ template "_internal/pagination.html" . }}
 {{ end }}

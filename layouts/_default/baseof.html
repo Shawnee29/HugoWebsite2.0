@@ -9,14 +9,16 @@
     <header>
         <h1>{{ .Site.Title }}</h1>
         <nav>
-			<a href="/HugoWebsite2.0/">Home</a>
-			<a href="/HugoWebsite2.0/blog">Blog</a>
-			<a href="/HugoWebsite2.0/products">Products</a>
+			<a href="/">Home</a>
+			<a href="/blog">Blog</a>
+			<a href="/products">Products</a>
+            <a href="#" onclick="history.back(); return false;">Back</a>
 		</nav>
     </header>
     <main>
         {{block "main" . }}{{ end }}
     </main>
+       
     <footer>
         &copy; {{ .Site.Title }} {{ now.Year}}
     </footer>

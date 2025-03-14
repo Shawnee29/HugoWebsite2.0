@@ -2,13 +2,16 @@
 title: "All things Trini"
 ---
 
-Homepage of my Hugo website.
+## Your One Stop Shop for all things Trinidad & Tobago!
 
-## Featured Products
+
+![Homepage Image](/images/homepage-image.png)
+
+### Featured Products
 
 {{< list "products" >}}
 
-## Latest Blog Posts
+### Latest Blog Posts
 
 {{< list "blog" >}}
 
