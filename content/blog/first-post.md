@@ -4,7 +4,7 @@ date: 2025-01-27T10:00:00-07:00
 image: "independence.jpg"
 ---
 
-{{< image src="./images/independence.jpg" alt="Product Image" >}}
+{{< image src="../images/independence.jpg" alt="Product Image" >}}
   
 **Picture this:** August 31st, 1962. The air crackled with excitement, a symphony of anticipation echoing across the islands of Trinidad and Tobago. After years of British rule, the twin-island nation was ready to throw off the colonial shackles and step into the spotlight as a newly independent country. It was a moment of pure jubilation, a vibrant explosion of national pride that painted the streets with the colors of their brand-new flag. Imagine the music, the dancing, the sheer joy of a people ready to write their own story!
 
