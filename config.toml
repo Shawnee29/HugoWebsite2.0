@@ -2,4 +2,6 @@ baseURL = 'https://shawnee29.github.io/HugoWebsite2.0/'
 languageCode = 'en-us'
 title = 'In My Trini Era'
 
-        
+ [caches]
+  [caches.images]
+    dir = ':cacheDir/images'       
