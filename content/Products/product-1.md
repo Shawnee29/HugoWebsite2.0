@@ -4,7 +4,7 @@ price: "$15000"
 image: "package1.jpg"
 ---
 
-{{< image src="package1.jpg" alt="Product Image" >}}
+{{< image src="./images/package1.jpg" alt="Product Image" >}} 
 
 **Ready to jump up and wine without breaking the bank?**    
    
